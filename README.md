@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrPeregrine
 - 👀 I’m interested in Dev.Games
 - 🌱 I’m currently learning hoe to make games :V
-- 💞️ I’m looking to collaborate on simple proyects
+- 💞️ I’m looking to collaborate on simple proyects and basic game dev :P
 - 📫 How to reach me , i dunno maybe github :V
 
 <!---
